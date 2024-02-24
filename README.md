@@ -2,7 +2,7 @@
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning server-side codes
 - 💞️ I’m looking to collaborate on POS type projects
-- 📫 How to reach me https://www.fb.com/pranhinmiad
+- 📫 How to reach me https://www.fb.com/tahrim.miad
 
 <!---
 tahrim-ahmed/tahrim-ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
